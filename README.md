@@ -1,6 +1,6 @@
 ## **Table of Contents**
 
-1. <a href="#\">Import of Data Sets</a>
+1. <a href="#\">**Import of Data Sets**</a>
 
 2. Pre-processing of Data Sets 
 	1. <a href="#\">Detection and Removal of Empty data</a><br>

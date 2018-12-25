@@ -1,5 +1,3 @@
-# csc-375-2-0-machine-learning-2-assignment-2018
-
 ## **Table of Contents**
 
 1. <a href="#\">Import of Data Sets</a>
